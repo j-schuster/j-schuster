@@ -1,1 +1,10 @@
-Greetings👋! I’m Johann, a globe-trotting self taught programmer who currently calls Los Angeles home. By day, I'm a proud member of [Disney Streaming's](https://www.linkedin.com/company/disney-streaming) Applied R&D team, working on cutting-edge streaming innovations. By night, I channel my creativity into building startups like [Ask Carl](https://www.ask-carl.com/) - the world's first Immigration as a Software Service. I'm also a passionate musician, surfer, dad and husband.
+<div style="width: 100%; text-align: center;">
+  👋
+	<ul style="list-style: none">
+		<li>Full-stack dev at Disney Streaming </li>
+		<li>Building <a href="www.ask-carl.com">Ask Carl</a> in my spare time and sharing my journey </li>
+	</ul>
+  <div style="margin: 12px; text-align: center">
+    <a href="www.jschuster.dev">Website </a>&#x2022;<a href="https://www.linkedin.com/in/johann-schuster-%F0%9F%8E%B6-769528b2/"> LinkedIn</a>
+  </div>
+</div>
