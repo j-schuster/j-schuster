@@ -1,4 +1,4 @@
-<div style="width: 100%; text-align: center;">
+<div align="center">
   👋
 	<ul style="list-style: none">
 		<li>Full-stack dev at Disney Streaming </li>
